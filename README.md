@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lildps
-- 👀 I’m interested in ... c# coding, VS coding (console, form), Unity 2D - 3D games.
+- 👀 I’m interested in ... c# coding, VS coding (console, form), Unity 2D - 3D games, javascript coding.
 - 📫 How to reach me via e-mail = enisalonda@outlook.com
 - 
